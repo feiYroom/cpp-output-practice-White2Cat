@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(void) {
-    // TODO: Print the correct output for this exercise
+    cout << "C++ is fun!";
+    cout << " Let's learn it.";
     return 0;
 }

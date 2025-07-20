@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(void) {
-    // TODO: Print the correct output for this exercise
+    cout << "This is the first line." << endl;
+    cout << "This is the second line.";
     return 0;
 }
