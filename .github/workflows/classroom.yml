@@ -8,4 +8,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Run tests
-      run: chmod +x test_runner.sh && ./test_runner.sh
+      run: chmod +x ./test_runner.sh && ./test_runner.sh
